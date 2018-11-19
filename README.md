@@ -4,4 +4,4 @@ List of languages for Coinbase Commerce
 ## Credits
 
 - [antimech](https://github.com/antimech)
-- [All Contributors](https://github.com/caouecs/Laravel-lang/graphs/contributors)
+- [All Contributors](https://github.com/antimech/coinbase-commerce-lang/graphs/contributors)
